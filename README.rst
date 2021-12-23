@@ -1,3 +1,5 @@
+Understanding compound mechanism of action using interated data - A review: https://pubs.rsc.org/en/content/articlelanding/2022/cb/d1cb00069a
+
 Prediction IncluDinG INactivity (PIDGIN) Version 4.2
 =======================================
 
